@@ -21,8 +21,8 @@ public class Main {
 
         //saída no inicio da luta
         System.out.println("Começo do ataque:");
-        System.out.println(jogador1);  // Mostra o jogador1 com a espada
-        System.out.println(jogador2);  // Mostra o jogador2 com o arco
+        System.out.println(jogador1);
+        System.out.println(jogador2);
 
         //função de combate
         jogador1.atacar(jogador2);

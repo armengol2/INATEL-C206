@@ -29,8 +29,8 @@ public class Main {
 
         //saída no fim da luta
         System.out.println("Fim do ataque:");
-        System.out.println(jogador1);  // Mostra o jogador1 com a espada
-        System.out.println(jogador2);  // Mostra o jogador2 com o arco
+        System.out.println(jogador1);
+        System.out.println(jogador2);
 
 
     }

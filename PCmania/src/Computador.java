@@ -2,7 +2,7 @@ public class Computador {
     public String marca;
     public float preco;
     public HardwareBasico[] hard = new HardwareBasico[3];
-    public SistemaOperacional sist = new SistemaOperacional();  // sistema Operacional
+    public SistemaOperacional sist = new SistemaOperacional(); 
     public MemoriaUSB musb;
 
     // função para mostrar as configurações do PC

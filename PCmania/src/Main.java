@@ -64,7 +64,7 @@ public class Main {
         Cliente cliente = new Cliente();
         // Entrando com dados do cliente
         System.out.println("Bem-vindo à PCmania!");
-        System.out.println("A sua loja de computadoresrodrigo");
+        System.out.println("A sua loja de computadores");
         System.out.print("Digite seu nome: ");
         cliente.nome = entrada.nextLine();
 

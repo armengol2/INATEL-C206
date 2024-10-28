@@ -1,0 +1,18 @@
+1;Super Mario;199.99
+2;Zelda;299.99
+1;Super Mario;199.99
+2;Zelda;299.99
+1;Super Mario;199.99
+2;Zelda;299.99
+1;Super Mario;199.99
+2;Zelda;299.99
+1;Super Mario;199.99
+2;Zelda;299.99
+1;Red dead redemption 2;199.99
+2;Grand Theft Auto 6;349.99
+1;Red dead redemption 2;199.99
+2;Grand Theft Auto 6;349.99
+1;Red dead redemption 2;199.99
+2;Grand Theft Auto 6;349.99
+1;k;199.99
+2;Grand Theft Auto 6;349.99
